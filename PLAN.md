@@ -1,5 +1,7 @@
 # Vigil — Platform Health Monitor & Auto-Fix
 
+> **Roadmap & tasks**: See [GitHub Issues](https://github.com/BrightIdeaStudio/vigil/issues) and the [BIS Project Board](https://github.com/orgs/BrightIdeaStudio/projects/1).
+
 ## Context
 
 Vigil is the platform health monitor and auto-fix system for the BrightIdeaStudio suite. It's developer-facing (for Kyle as platform creator), not user-facing (that's Lumen).
